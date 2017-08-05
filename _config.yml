@@ -7,4 +7,5 @@ title: anything??
  gems:
    - jekyll-coffeescript
    - jekyll-paginate
+layout: post
 theme: jekyll-theme-cayman
