@@ -18,8 +18,4 @@
       <a href="#" class="btn">Download .tar.gz</a>
     </section>
 
-date: 2017-02-01 01:01:01
-layout: header
-author: Ameen
-permalink: pretty
 theme: jekyll-theme-cayman
